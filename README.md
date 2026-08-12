@@ -52,11 +52,11 @@ php artisan key:generate
 The project uses MySQL. Configure `.env` with:
 
 ```env
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel_url_shortener
-DB_USERNAME=root
+DB_CONNECTION=
+DB_HOST=
+DB_PORT=
+DB_DATABASE=
+DB_USERNAME=
 DB_PASSWORD=
 ```
 
